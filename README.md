@@ -2,7 +2,6 @@
 
 # ⚡ REACTOR ULTIMATE
 
-<img src="https://via.placeholder.com/250x250/0A0E1A/00D9FF?text=⚡+REACTOR" alt="REACTOR Logo" width="250"/>
 
 ### Real-time Enhanced Adaptive Computer Tactical Optimization Resource
 
@@ -566,11 +565,10 @@ REACTOR modifies system settings to improve performance. While we implement comp
 
 *"Sometimes you gotta run before you can walk." - Tony Stark*
 
-[![GitHub Stars](https://img.shields.io/github/stars/StarkIndustries/REACTOR?style=social)](https://github.com/StarkIndustries/REACTOR)
-[![GitHub Forks](https://img.shields.io/github/forks/StarkIndustries/REACTOR?style=social)](https://github.com/StarkIndustries/REACTOR)
-[![Twitter Follow](https://img.shields.io/twitter/follow/ReactorUltimate?style=social)](https://twitter.com/ReactorUltimate)
+[![GitHub Stars](https://img.shields.io/github/stars/raunaksingh765/REACTOR?style=social)](https://github.com/raunaksingh765/REACTOR)
+[![GitHub Forks](https://img.shields.io/github/forks/raunaksingh765/REACTOR?style=social)](https://github.com/raunaksingh765/REACTOR)
 
-**[⬇️ Download Now](#-installation)** • **[⭐ Star on GitHub](https://github.com/StarkIndustries/REACTOR)** • **[🤝 Contribute](#-contributing)**
+**[⬇️ Download Now](#-installation)** • **[⭐ Star on GitHub](https://github.com/raunaksingh765/REACTOR)** • **[🤝 Contribute](#-contributing)**
 
 ---
 
