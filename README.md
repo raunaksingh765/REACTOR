@@ -466,7 +466,7 @@ BIOS guide, detailed logs, explanations of what everything does.
 - Admin rights
 
 # Clone:
-git clone https://github.com/StarkIndustries/REACTOR.git
+git clone https://github.com/raunaksingh765/REACTOR.git
 cd REACTOR
 
 # Run:
@@ -528,9 +528,7 @@ Always create a restore point before optimization (we do it automatically).
 **Need help?**
 
 - 📖 **Documentation**: Check the About tab in REACTOR
-- 💬 **Discord**: [Join our community](#) (coming soon)
-- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/StarkIndustries/REACTOR/issues)
-- 📺 **Video Guide**: [YouTube Tutorial](#) (coming soon)
+- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/raunaksingh765/REACTOR/issues)
 
 ---
 
